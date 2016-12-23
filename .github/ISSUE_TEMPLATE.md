@@ -19,7 +19,7 @@ In order to help us troubleshoot the issue, please be sure to include the follow
 - [ ] If this is a key related issue, please include the list of files (including user/group permissions) in `/hab/cache/keys` and `$HOME/.hab/cache/keys` via `ls -la`.
 
 		ls -la /hab/cache/keys
-		ls -la $HOME/.hab/cache.keys
+		ls -la $HOME/.hab/cache/keys
 
 
 
